@@ -34,7 +34,7 @@ This shows what the final automated report looks like when delivered.
 
 ****
 
-**Note:** The file path for this image is: (https://github.com/Mukesh77-code/Weather_mail/blob/a25c8dbe2b4f2a29fc6ac10d638def2896f18113/Screenshot%202025-10-26%20183048.png)
+![Workflow_image](https://github.com/Mukesh77-code/Weather_mail/blob/a25c8dbe2b4f2a29fc6ac10d638def2896f18113/Screenshot%202025-10-26%20183048.png)
 
 ***
 
