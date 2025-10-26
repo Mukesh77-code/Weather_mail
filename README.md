@@ -27,7 +27,6 @@ Here are screenshots of the workflow setup and the final output:
 A visual representation of the node-based automation flow.
 
 ****
-![workflow](https://github.com/Mukesh77-code/Weather_mail/blob/f0048cd409d0ffba481045af345996fbad2f45d9/Screenshot%202025-10-26%20235057.png)
 
 ### 2. Example Report Output
 
